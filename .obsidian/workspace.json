@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "587cba4aa9525d64",
+    "type": "split",
+    "children": [
+      {
+        "id": "759ca8a325bd5641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a7681274644f3d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/interespecíficas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "781b466356873c4b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e134da2691f90c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologia/Relações ecológicas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b40eae62a961eef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/BACKGROUND CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71f69f2df780e0e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4ead6627001d2c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3ad6b5f72ab7e26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9819100804ef0b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#biologia",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfd95c6f83509643",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f63d232f63c50a27",
+    "type": "split",
+    "children": [
+      {
+        "id": "e433c06631bd17c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97945ce007560b73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSS/BACKGROUND CSS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5001fc5b39e8724",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSS/BACKGROUND CSS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56daeead8f3334bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f50b10ac0117124f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSS/BACKGROUND CSS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b40eae62a961eef3",
+  "lastOpenFiles": [
+    "Biologia/Relações ecológicas.md",
+    "CSS/BACKGROUND CSS.md",
+    "CSS",
+    "Biologia/interespecíficas.md",
+    "Biologia/mutualismo obrigatório.md",
+    "Biologia/Mutualismo.md",
+    "Biologia/Linquens.md",
+    "Biologia/Harmônicas.md",
+    "Biologia/desarmônicas.md",
+    "Biologia/comensalismo.md",
+    "Livros/Livre Arbítrio Revisitado.md",
+    "Livros/livre-arbítrio revisitado",
+    "Livros",
+    "Biologia",
+    "Sem título.canvas",
+    "nota.md",
+    "Ecologia.md",
+    "Ecologia",
+    "2023-08-30.md",
+    "Sem título 1.canvas"
+  ]
+}
